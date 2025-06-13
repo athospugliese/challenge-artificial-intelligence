@@ -1,0 +1,6 @@
+emp/
+__pycache__/
+*.pyc
+.vscode/
+tests/
+.env

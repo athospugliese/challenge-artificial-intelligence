@@ -1,0 +1,12 @@
+streamlit
+openai
+google-generativeai
+elasticsearch
+pymupdf
+python-dotenv
+pandas
+numpy
+aiofiles
+requests
+pydantic
+python-multipart
